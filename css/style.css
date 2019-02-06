@@ -1,0 +1,23 @@
+
+.container-fluid{
+	margin-top: 20px;
+}
+
+.carousel-indicators li{
+	height: 12px;
+	width: 12px;
+	border-radius: 50%;
+}
+.sectiontitle{
+	margin-top: 20px;
+	text-align: center;
+}
+#city,#country,.container-fluid input{
+	border:1px solid black;
+}
+.spinner-border{
+	margin-left: 20px;
+}
+.toast{
+	position: relative;
+}
